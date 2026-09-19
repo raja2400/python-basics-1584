@@ -14,3 +14,26 @@
 | Requires `pip install -r requirements.txt` | No | No `requirements.txt` file exists; the programs use standard Python features only. |
 | Requires Python 3.x | Yes | The programs are Python programs and are intended to run using Python 3.x. |
 | No external libraries or dependencies are required | Yes | The programs use basic Python features and do not require external packages. |
+
+# Peer Repository Review
+
+Repository: https://github.com/raja2400/python-basics-1584.git
+i shared my repo with gaurang sharma and she verifies two claims and essential fixes 
+
+
+## 1. Verify Two Claims
+
+- **Claim 1:** The repository contains Python programs for practicing basic programming concepts — **Verified**.
+- **Claim 2:** The repository is intended for learning and practicing Python basics — **Verified**.
+
+## 2. Commit Messages
+
+The commit history was reviewed. The commits document the changes made to the repository and provide a record of the development work.
+
+## 3. One Specific Fix
+
+A clear `README.md` was added with the project description, list of Python programs, instructions for running the programs, and requirements/dependencies. This improves the documentation and makes the repository easier to understand and use.
+
+## Partner Review Notes
+
+The repository provides a useful collection of beginner-level Python programs for practice. The addition of the `README.md` improves the documentation by explaining the programs and how to run them. Overall, the repository is now easier for others to navigate and understand.
